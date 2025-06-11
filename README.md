@@ -18,3 +18,4 @@ A PowerShell module designed to simplify adb command operations across multiple 
 If you run adbx -bind <SERIAL>, then you can run other adb subcommands by adbx, you don't need to use -s <SERIAL> parameters to specify the target device.
 
 # Screenshot
+![Usage](https://github.com/InterruptException/ADBX-PS/blob/main/Screenshot%202025-06-11%20184708.png?raw=true)
